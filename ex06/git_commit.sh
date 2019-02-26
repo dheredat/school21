@@ -1,1 +1,1 @@
-GIt log -n 5 --pretty=oneline
+git log -5 --format="%H"
